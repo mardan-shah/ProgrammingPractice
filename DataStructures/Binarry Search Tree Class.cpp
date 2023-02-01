@@ -10,9 +10,6 @@ public:
 		data = val;
 		left = right = NULL;
 	}
-	~node() {
-		delete left, right;
-	}
 };
 
 class BinaryTree {
