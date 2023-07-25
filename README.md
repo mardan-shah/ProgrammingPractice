@@ -73,6 +73,3 @@ A big thank you to the developers of C++ and the open-source community for provi
 
 
 Happy coding with C++ and data structures! 😄
-```
-
-In the updated README, the `Contributing`, `License`, and `Acknowledgments` sections have been added. The `Contributing` section invites community contributions, the `License` section explains the project's licensing terms, and the `Acknowledgments` section acknowledges specific contributors to the project. Customize the content as needed and replace `[Contributor Name](https://github.com/contributor)` with the actual contributor's name and GitHub profile link.
